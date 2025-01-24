@@ -16,7 +16,7 @@
 ### Install
 1. Clone this repo.
 ````
-git clone https://github.com/anbuinfosec/social-bot-v2 && cp -r social-bot-v2/. . && rm -rf social-bot-v2
+git clone https://github.com/nyeinkokoaung404/social-bot-v2 && cp -r social-bot-v2/. . && rm -rf social-bot-v2
 ````
 2. Install all requirements.
 ````
