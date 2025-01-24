@@ -23,10 +23,10 @@ def update_bot():
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = config('BOT_TOKEN', default='YOUR_BOT_TOKEN_HERE')
+TOKEN = config('BOT_TOKEN', default='7357549433:AAEEPCKnZheK5_OlXkR-14UsQo35jGqzW0Q')
 APIKEY = config('APIKEY', default='YOUR_APIKEY_HERE')
 OWNER = config('OWNER', default='https://facebook.com/anbuinfosec')
-ADMIN_ID = config('ADMIN_ID', default='5839119376')
+ADMIN_ID = config('ADMIN_ID', default='7506659738')
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
